@@ -1,0 +1,190 @@
+body{
+    padding: 0%;
+    margin: 0%;
+  
+}
+.navbar{
+    display: flex;
+    box-shadow: 2px 0px 4px black  ;
+    height: 5rem;
+    position: sticky;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+.head{
+    display: flex;
+}
+i{
+    padding-right:2px
+}
+.leftbar a{
+    padding-left: 1rem;
+    padding-top: 2rem;
+}
+.amiddle{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    height: 4rem;
+    width: 4rem;
+    margin: 1rem;
+    padding-left: 3rem;
+}
+.rightbar {
+    padding-left: 11rem;
+
+}
+.rightbar a{
+    margin: 2rem 3rem 0 1rem;
+    padding-top: 3rem;
+}
+h1{
+    padding-left: 12rem;
+}
+.imgs{
+    padding-left: 3rem;
+}
+.imgs img{
+    height: 17rem;
+    width:25rem;
+    padding-left: 1rem;
+}
+.simg{
+    padding-left: 12rem;
+}
+.small img{
+    height: 182px;
+    width: 144px;
+}
+.simg img{
+    padding-left: 2rem;
+}
+.threee img{
+    height: 17rem;
+    width:25rem;
+    border-radius: 3rem;
+    padding-left: 9px;
+}
+.the{
+    padding-left: 3rem;
+    display: flex;
+}
+h2{
+    line-height: 3px;
+}
+h3{
+    line-height: 4px;
+}
+.hh{
+    padding-left: 2rem;
+}
+
+.atags{
+    padding-left: 12rem;
+}
+.atags{
+    display: flex;
+    position: sticky;
+}
+.atags div{
+    padding-left: 1rem;
+    border: 0.2px solid black;
+    margin-left: 1rem;
+    line-height: 2.5rem;
+    border-radius: 15px;
+    box-shadow: 1px 1px 4px black;
+}
+.five{
+    padding-left: 10rem;
+}
+.fiveimg{
+    display: flex;
+}
+.fiveimg img{
+    height: 13rem;
+    width: 15rem;
+    margin: 1rem;
+    border-radius: 2rem;
+}
+.box {
+    display: flex;
+    padding-left: 8rem;
+}
+.row{
+    height: 2rem;
+    width: 35rem;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 1rem;
+    margin-left: 2rem;
+    font-size: larger;
+    border-radius: 1.5rem;
+}
+.f{
+    display: flex;
+    height: 7rem;
+    background-color: gray;
+    justify-content: space-evenly;
+}
+.fo{    
+    line-height: 1rem;
+}
+.for{
+    line-height: 0.1px;
+    height: 3.5rem;
+    width: 10rem;
+    border: 1px solid black;
+    margin-top: 2rem;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.form{
+    line-height: 1px;
+    height: 3.5rem;
+    width: 10rem;
+    border: 1px solid black;
+    margin-top: 2rem;
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+.end{
+    display: flex;
+    justify-content:space-evenly;
+    height: 30rem;
+    background-color: black;
+    color: white;
+}
+.ch img{
+    height: 3rem;
+    width: 3rem;
+}
+.ch p{
+    padding-left: 12rem;
+}
+.end p{
+    font-weight: 700;
+    opacity: 0.7;
+}
+.ch{
+    padding-top: 1rem;
+}
+.chi{
+    padding-top:3rem ;
+}
+.bor{
+    border: 1px solid white;
+    line-height: 2rem;
+    border-radius: 0.6rem;
+}
+
+p:hover{
+    cursor: pointer;
+}
